@@ -10,7 +10,7 @@ Entrepreneur and Passionate Full Stack Programmer with more than 6 years experie
 
 Backend : PHP, Laravel, NodeJS, AdonisJS, FastifyJS, ExpressJS, Websocket, Socket.IO
 
-Database : MySQL, Postgres, SQlite, IndexDB, Redis, KeyDB, Scylla DB, DynamoDB, Firebase, MongoDB
+Database : MySQL, Postgres, CockroachDB, Vitess, SQlite, IndexDB, Redis, KeyDB, Scylla DB, DynamoDB, CouchDB, Firebase, MongoDB
 
 Frontend : HTML, CSS, TailwindCSS, Bootstrap, Javascript, Vue, React, Svelte, AlpineJS
 
