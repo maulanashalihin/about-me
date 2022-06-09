@@ -16,6 +16,7 @@ Frontend : HTML, CSS, TailwindCSS, Bootstrap, Javascript, Vue, React, Svelte, Al
 
 Cross Platform : Electron, CapacitorJS, React Native, Native Script
 
+
 ## Education
 Bachelor of Computer Science at Brawijaya University
 
