@@ -43,4 +43,9 @@ Bachelor of Computer Science at Brawijaya University
     
     https://github.com/maulanashalihin/toastwind <br><br>
     tiny library to show toast on your website
+    
+3. **Live Stream and Live Chat**
+    
+   https://github.com/maulanashalihin/live-streming-and-chat <br><br>
+   an app to create live stream, handling event registration, and live chat.
  
