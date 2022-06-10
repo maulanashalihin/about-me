@@ -1,6 +1,6 @@
 <br>
 
-<img src="https://storage.googleapis.com/turing_developers/avatar/1652779741210_IMG_20220517_172559_720_2.jpg" width="140px" style="border-radius : 100%" />
+<img src="https://sin1.contabostorage.com/a196457ae22540fb8b66fd8bd8a37ae4:driplab/IMG_20220517_172559_720_2-modified.png" width="140px" style="border-radius : 100%" />
 
 # Maulana Shalihin
  
